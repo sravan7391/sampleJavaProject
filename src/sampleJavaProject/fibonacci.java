@@ -3,7 +3,7 @@ package sampleJavaProject;
 public class fibonacci {
 
 	  
-    // Function to print N Fibonacci Number
+    // Function to print finite Fibonacci Number
     static void Fibonacci(int N)
     {
         int num1 = 0, num2 = 1;
