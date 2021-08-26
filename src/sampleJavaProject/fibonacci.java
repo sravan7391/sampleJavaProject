@@ -24,7 +24,7 @@ public class fibonacci {
         }
     }
   
-    // Driver Code
+    // Driver Code Exe
     public static void main(String args[])
     {
         // Given Number N
